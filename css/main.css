@@ -124,6 +124,7 @@ footer {
 
 footer > span {
   background: black;
+  paddig-top: 10px;
 }
 
 a {
